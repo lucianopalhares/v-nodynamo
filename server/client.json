@@ -1,0 +1,81 @@
+{
+    "razao_social": "Loja do Zé LTDA",
+    "nome_fantasia": "Zé Store",
+    "tipo": "J",
+    "cpf": "",
+    "cnpj": "46487899000110",
+    "inscricao_estadual": "ISENTO",
+    "suframa": "",
+    "nome_excecao_fiscal": "Isento",
+  
+    "observacao": "Cliente com ótimo histórico de pagamentos.",
+    "emails": [
+      {
+        "email": "jose@zestore.com.br"
+      },
+      {
+        "email": "marcos@zestore.com.br"
+      }
+    ],
+    "telefones": [
+      {
+        "numero": "(11) 98765-4321"
+      },
+      {
+        "numero": "(47) 9876-5432"
+      }
+    ],
+    "contatos": [
+      {
+        "nome": "Lucas da Silva",
+        "cargo": "Gerente de Compras",
+        "emails": [
+          {
+            "email": "lucas@zestore.com.br"
+          }
+        ],
+        "telefones": [
+          {
+            "numero": "(21) 1111-1234"
+          }
+        ]
+      }
+    ],
+    "enderecos": [
+      {
+        "cep": "89223-005",
+        "endereco": "Av. Rolf Wiest",
+        "numero": "277",
+        "complemento": "",
+        "bairro": "Bom Retiro",
+        "cidade": "Joinville",
+        "estado": "SC",
+        "Principal": 1
+      },
+      {
+        "cep": "89223-005",
+        "endereco": "Av. Rolf Wiest",
+        "numero": "333",
+        "complemento": "Sala 1",
+        "bairro": "Bom Retiro",
+        "cidade": "Joinville",
+        "estado": "SC",
+        "Principal": 0
+      }
+    ],
+  
+     
+     "custom": [
+      {
+          "campo": "Segmento",
+          "valor": "Bares"
+      },
+      {
+          "campo": "Porte",
+          "valor": "Pequeno"
+      }
+     ],
+    
+    
+     "excluido": false
+  }
